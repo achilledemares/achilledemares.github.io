@@ -2,6 +2,6 @@ main:
   - title: "About me"
     url: /posts/
   - title: "CV"
-    url: /cv/cvAchilleDemaresMa2025.pdf
+    url: /_cv/cvAchilleDemaresMa2025.pdf
   - title: "Projects"
     url: /projects/
